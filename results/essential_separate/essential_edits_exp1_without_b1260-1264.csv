@@ -1,0 +1,6 @@
+Position,Gene_Name,Enzyme,Operation
+0,b4025,draw_prot_P0A6T1,KO
+13,b2329,draw_prot_P12008,OE
+15,b4094,draw_prot_P16690,OE
+31,b0116,draw_prot_P0A9P0,KD
+52,b1198,draw_prot_P37349,KO
