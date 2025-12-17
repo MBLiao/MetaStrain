@@ -264,6 +264,10 @@ The optimization results represent gene manipulation strategies where:
 - **Model Tolerance**: Default tolerance (1e-9) balances accuracy and speed; can be adjusted if needed
 - **Multiple Runs**: Running multiple independent runs (`totalTime > 1`) helps identify robust solutions
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Citation
 
 If you use MetaStrain in your research, please cite:
