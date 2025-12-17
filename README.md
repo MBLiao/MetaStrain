@@ -268,49 +268,16 @@ The optimization results represent gene manipulation strategies where:
 
 If you use MetaStrain in your research, please cite:
 
-```
-[Authors]. MetaStrain: Efficient Cell Factory Design by Combining Meta-Heuristic Algorithm 
-with Enzyme Constrained Metabolic Models. bioRxiv (2025). 
-doi: https://doi.org/10.1101/2025.06.12.659423v2
-```
-
-Or in BibTeX format:
-
 ```bibtex
-@article{metastrain2025,
-  title={MetaStrain: Efficient Cell Factory Design by Combining Meta-Heuristic Algorithm with Enzyme Constrained Metabolic Models},
-  author={[Authors]},
-  journal={bioRxiv},
+@article{liao2025efficient,
+  title={Efficient Cell Factory Design by Combining Meta-Heuristic Algorithm with Enzyme-Constrained Metabolic Models},
+  author={Liao, Wenbin and Gao, Gengrong and Wang, Haoyu and Fan, Xingcun and Wang, Le and He, Siwei and Xiang, Guangming and Yan, Xuefeng and Lu, Hongzhong},
+  journal={BioRXiv},
+  pages={2025--06},
   year={2025},
-  doi={10.1101/2025.06.12.659423v2}
+  publisher={Cold Spring Harbor Laboratory}
 }
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-**MIT License**
-
-Copyright (c) 2025 [Your Name/Institution]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
 
 ## Contact
 
